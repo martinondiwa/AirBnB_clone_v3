@@ -1,4 +1,5 @@
- RESTful API, or REST API, is a way for applications to communicate with each other using the internet. It's an application programming interface (API) that follows the Representational State Transfer (REST) architectural style. 
+group project by wycliffe and Martin  
+RESTful API, or REST API, is a way for applications to communicate with each other using the internet. It's an application programming interface (API) that follows the Representational State Transfer (REST) architectural style. 
 How RESTful APIs work 
 Use HTTP requests to access data
 Support data types like GET, PUT, POST, and DELETE
